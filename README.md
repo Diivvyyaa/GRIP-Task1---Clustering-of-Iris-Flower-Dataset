@@ -13,3 +13,4 @@ Petal length in cm
 Petal width in cm
 Class - Iris Versicolor, Iris Setosa and Iris Virginica.
 
+K-means algorithm is used for analysis of iris flower dataset. After carefully conducting the modeling it is observed that petal length, petal width and sepal length are three significant features which contribute in proper clustering. The optimum number of clusters are 3. The setosa class of iris flower is linearly seperable from other two classes; however the other two classes i.e. versicolor and virginica show overlap. 
